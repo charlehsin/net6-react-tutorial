@@ -1,5 +1,15 @@
 # Tutorial and sample codes for ASP.NET 6 SPA with React
 
+## Migrating from .NET 6
+
+The code base is from this repository for [.NET 5 SPA](https://github.com/charlehsin/net5-react-tutorial). Then we follow this [MSDN guide](https://docs.microsoft.com/en-us/aspnet/core/migration/50-to-60?view=aspnetcore-6.0&tabs=visual-studio-code) to migrate this to .NET 6.
+
+You can find out the changes done during the migration from the commit history.
+
+To get the installed .NET versions
+
+- dotnet --info
+
 ## Overview
 
 This follows the following to create the default template codes.
